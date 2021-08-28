@@ -14,7 +14,7 @@ const theme = {
 }
 
 ReactDOM.render(
-  <ThemeProvider theme={theme}   >
+  <ThemeProvider theme={theme}>
     <App />
   </ThemeProvider>
   ,
