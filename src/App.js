@@ -163,7 +163,7 @@ function App() {
   }
 
   const handleDeleteTodo = id => {
-    setTodos(todos.filter(todo => todo.id !== id))
+    setTodos(todos.filter(todo => todo.id !== id ))
   }
 
   return (
