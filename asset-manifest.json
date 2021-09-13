@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-board-test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-board-test/static/js/main.58c96e52.chunk.js",
+    "main.js.map": "/react-board-test/static/js/main.58c96e52.chunk.js.map",
+    "runtime-main.js": "/react-board-test/static/js/runtime-main.b5cbc180.js",
+    "runtime-main.js.map": "/react-board-test/static/js/runtime-main.b5cbc180.js.map",
+    "static/js/2.9d27fc09.chunk.js": "/react-board-test/static/js/2.9d27fc09.chunk.js",
+    "static/js/2.9d27fc09.chunk.js.map": "/react-board-test/static/js/2.9d27fc09.chunk.js.map",
+    "static/js/3.9ab76f13.chunk.js": "/react-board-test/static/js/3.9ab76f13.chunk.js",
+    "static/js/3.9ab76f13.chunk.js.map": "/react-board-test/static/js/3.9ab76f13.chunk.js.map",
+    "index.html": "/react-board-test/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-board-test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9d27fc09.chunk.js.LICENSE.txt": "/react-board-test/static/js/2.9d27fc09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5cbc180.js",
+    "static/js/2.9d27fc09.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.58c96e52.chunk.js"
+  ]
+}
